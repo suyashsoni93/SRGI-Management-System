@@ -235,8 +235,6 @@ c = DriverManager.getConnection(
 ## 👨‍💻 Author
 
 **Suyash Soni**
-B.C.A 3rd Year — Roll No. 215901007033
-S.R. Group of Institutions (SRGI)
 
 📧 suyashsoni93@gmail.com
 📞 8299664281
